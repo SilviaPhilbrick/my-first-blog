@@ -3,8 +3,8 @@
 
 .page-header {
     background-color: #33B1FF;
-    margin-top: 50;
-    padding: 80px 50px 50px 60px;
+    margin-top: 0;
+    padding: 50px 50px 50px 60px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -19,10 +19,16 @@
 
 h1, h2, h3, h4 {
     font-family: 'Slabo 27px', serif;
+    font-size: 20pt;
 }
 
+
+
 .date {
-    color: #828282;
+    color: #4EC8C7;
+    font-family: 'Raleway', sans-serif;
+    font-size: 9pt;
+    margin-bottom: 10px;
 }
 
 .save {
@@ -41,7 +47,10 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 70px;
+    margin-bottom: 30px;
+    color: #3F3F3F;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12pt;
 }
 
 .post h1 a, .post h1 a:visited {
